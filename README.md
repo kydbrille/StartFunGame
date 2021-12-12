@@ -1,0 +1,2 @@
+# StartFunGame
+start the journal
